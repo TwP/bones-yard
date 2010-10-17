@@ -1,32 +1,21 @@
 bones-yard
-    by FIXME (your name)
-    FIXME (url)
+    by Tim Pease
+    http://rubygems.org/gems/bones-yard
 
 == DESCRIPTION:
 
-FIXME (describe your package)
-
-== FEATURES/PROBLEMS:
-
-* FIXME (list of features or problems)
-
-== SYNOPSIS:
-
-  FIXME (code sample of usage)
-
-== REQUIREMENTS:
-
-* FIXME (list of requirements)
+The yard package for Mr Bones provides tasks to incorporate Yard based
+documentation into bones based projects.
 
 == INSTALL:
 
-* FIXME (sudo gem install, anything else)
+  gem install bones-yard
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2009 FIXME (different license?)
+Copyright (c) 2010
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
